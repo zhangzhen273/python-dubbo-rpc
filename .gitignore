@@ -1,3 +1,6 @@
 *.pyc
 .idea
 *.log
+*build
+*dist
+*dubbo_client.egg-info
